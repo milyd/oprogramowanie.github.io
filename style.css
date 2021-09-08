@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body
+{
+    color: white;
+    background-image: url("tlo.jpg");
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+padding: 0;
+text-align: center;
+}
+
+a
+{
+    color: white;
+}
+
+.bar
+{
+    background-color: #3498db;
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+}
